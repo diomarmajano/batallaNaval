@@ -1,0 +1,13 @@
+C:\Users\httpd\Documents\INSTITUTO\C#\PROG2EVA1Gregory_majano\PROG2EVA1Gregory_majano\bin\Debug\PROG2EVA1Gregory_majano.exe.config
+C:\Users\httpd\Documents\INSTITUTO\C#\PROG2EVA1Gregory_majano\PROG2EVA1Gregory_majano\bin\Debug\PROG2EVA1Gregory_majano.exe
+C:\Users\httpd\Documents\INSTITUTO\C#\PROG2EVA1Gregory_majano\PROG2EVA1Gregory_majano\bin\Debug\PROG2EVA1Gregory_majano.pdb
+C:\Users\httpd\Documents\INSTITUTO\C#\PROG2EVA1Gregory_majano\PROG2EVA1Gregory_majano\obj\Debug\PROG2EVA1Gregory_majano.csproj.AssemblyReference.cache
+C:\Users\httpd\Documents\INSTITUTO\C#\PROG2EVA1Gregory_majano\PROG2EVA1Gregory_majano\obj\Debug\PROG2EVA1Gregory_majano.csproj.SuggestedBindingRedirects.cache
+C:\Users\httpd\Documents\INSTITUTO\C#\PROG2EVA1Gregory_majano\PROG2EVA1Gregory_majano\obj\Debug\PROG2EVA1Gregory_majano.Form1.resources
+C:\Users\httpd\Documents\INSTITUTO\C#\PROG2EVA1Gregory_majano\PROG2EVA1Gregory_majano\obj\Debug\PROG2EVA1Gregory_majano.Properties.Resources.resources
+C:\Users\httpd\Documents\INSTITUTO\C#\PROG2EVA1Gregory_majano\PROG2EVA1Gregory_majano\obj\Debug\PROG2EVA1Gregory_majano.csproj.GenerateResource.cache
+C:\Users\httpd\Documents\INSTITUTO\C#\PROG2EVA1Gregory_majano\PROG2EVA1Gregory_majano\obj\Debug\PROG2EVA1Gregory_majano.csproj.CoreCompileInputs.cache
+C:\Users\httpd\Documents\INSTITUTO\C#\PROG2EVA1Gregory_majano\PROG2EVA1Gregory_majano\obj\Debug\PROG2EVA1Gregory_majano.exe
+C:\Users\httpd\Documents\INSTITUTO\C#\PROG2EVA1Gregory_majano\PROG2EVA1Gregory_majano\obj\Debug\PROG2EVA1Gregory_majano.pdb
+C:\Users\httpd\Documents\INSTITUTO\C#\PROG2EVA1Gregory_majano\PROG2EVA1Gregory_majano\obj\Debug\PROG2EVA1Gregory_majano.Form2.resources
+C:\Users\httpd\Documents\INSTITUTO\C#\PROG2EVA1Gregory_majano\PROG2EVA1Gregory_majano\obj\Debug\PROG2EVA1Gregory_majano.Form3.resources
